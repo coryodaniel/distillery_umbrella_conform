@@ -1,0 +1,3 @@
+%{"conform": {:git, "git@github.com:bitwalker/conform.git", "678dbfca6e7a94dd9d9214e6dbddf8b3ddb35dbf", [branch: "master"]},
+  "distillery": {:git, "git@github.com:bitwalker/distillery.git", "ae186dc587d68913e3381551edbfb32ff09daf27", [branch: "master"]},
+  "neotoma": {:hex, :neotoma, "1.7.3", "d8bd5404b73273989946e4f4f6d529e5c2088f5fa1ca790b4dbe81f4be408e61", [:rebar], []}}
